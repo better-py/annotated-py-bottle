@@ -79,3 +79,4 @@ target/
 .module-cache
 nbproject
 Thumbs.db
+docs

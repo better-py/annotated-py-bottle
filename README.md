@@ -17,7 +17,7 @@
 
 ## 关于 `bottle` 项目
 
-- [bottle 原项目地址](https://github.com/bottlepy/bottle)
+- `bottle` 原项目地址: https://github.com/bottlepy/bottle
 - `bottle-py` 是一个很 micro 的 python web 框架.
 - `bottle-py` 初始版本代码,不到1000行.很值得深入学习.
 - 关于 `bottle-py` 的使用方法,请参考官方项目文档.非常详尽.

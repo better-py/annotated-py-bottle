@@ -55,3 +55,27 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+*.pyc
+
+# OS or Editor folders
+.DS_Store
+.cache
+.idea
+.project
+.settings
+.tmproj
+.module-cache
+nbproject
+Thumbs.db
